@@ -18,7 +18,10 @@ h1 strong {color: greenyellow;
     background-color: rgb(34, 45, 109);
     text-align: center;
     font-family: 'PT Sans Narrow', sans-serif;
-    
+    padding: 10px;
+}
+.somos h2 {
+   
 }
 .botonAWS {
     width: 300px;
