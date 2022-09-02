@@ -14,6 +14,13 @@ h1 strong {color: greenyellow;
      padding: 75px;
 }
 .principal img {width: 300px;}
+.principal h1 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.principal h4 {
+    margin-top: 10px;
+}
 .somos {
     background-color: rgb(34, 45, 109);
     text-align: center;
@@ -37,9 +44,10 @@ h1 strong {color: greenyellow;
     
 }
 .principal3 {
-    background-color: rgb(34, 39, 109);
-     text-align: left;
+    background-color: rgb(16, 19, 71);
+     text-align: right;
      font-family: 'PT Sans Narrow', sans-serif;
+     padding: 15px;;
      
 
 }
